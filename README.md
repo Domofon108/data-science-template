@@ -1,3 +1,4 @@
+```
 project_name/
 │── data/                 # Data folder
 │   ├── raw/              # Raw (unprocessed) data
@@ -32,3 +33,4 @@ project_name/
 │
 │── README.md             # Project description
 │── .gitignore            # Ignore files for Git
+```
